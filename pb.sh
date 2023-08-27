@@ -1,0 +1,1 @@
+./pocketbase serve --debug  --http="yourdomain.com:80"
